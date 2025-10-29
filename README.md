@@ -19,3 +19,5 @@ Setup:
 In-Game: Just disable tile graphics and optionally modern UI
 
 There is also a template for you if you wish to make your own font within the mod folder
+
+Also found on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3485963877
