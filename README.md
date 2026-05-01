@@ -3,7 +3,9 @@ Ever felt like you wanted to change the tileless mode font to a more terminal st
 
 This mod also fixes a few things absent currently in the game concerning abilities not showing their ASCII character when in tileless mode and disabling the modern projectile VFX.
 
-Requires a few easy steps of setup
+Recommended: Use the mod here to replace ascii graphics more easily: https://steamcommunity.com/sharedfiles/filedetails/?id=3675780930&searchtext=easyascii
+
+If all else fails try the following:
 
 Setup:
 
